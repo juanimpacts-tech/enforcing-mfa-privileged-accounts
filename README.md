@@ -1,9 +1,4 @@
-# enforcing-mfa-privileged-accounts
-Got it — here’s the **summary rewritten in first-person** so it reads as *your* project and motivations:
-
----
-
-# Enforcing MFA for Privileged Accounts (IA-2(1)) – Summary
+# enforcing-mfa-privileged-accounts (IA-2(1)) – Summary
 
 **Purpose**
 I built this lab to show how to use **Policy-as-Code** with **Rego** and **Conftest** to automatically enforce **Multi-Factor Authentication (MFA)** for administrator accounts. I simulated IAM settings, wrote a policy to detect missing MFA, and ran automated tests to ensure compliance.
