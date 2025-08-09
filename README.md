@@ -29,7 +29,3 @@ I now have:
 * An automated control enforcing IA-2(1) continuously.
 * A repeatable test that works in CI/CD pipelines.
 * A concrete example of translating compliance requirements into code and evidence.
-
----
-
-If you want, I can now also create that **one-paragraph ultra-condensed intro** for the very top of your README so people instantly know what you did and why. That will make the repo feel polished and purposeful.
